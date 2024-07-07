@@ -3,3 +3,5 @@ foo:
   quz: {}
 
 branches: "hello"
+
+name: test
