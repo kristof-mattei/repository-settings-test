@@ -1,7 +1,0 @@
-foo:
-  bar: []
-  quz: {}
-
-branches: "hello"
-
-name: test
