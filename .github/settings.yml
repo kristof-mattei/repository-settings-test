@@ -59,4 +59,4 @@ repository:
 
   # Either `true` to enable vulnerability alerts, or `false` to disable
   # vulnerability alerts.
-  enable_vulnerability_alerts: false
+  enable_vulnerability_alerts: true
